@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DOCSmart project**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **fedi.kouki@ensi-uma.tn**
 

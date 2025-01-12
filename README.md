@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KOUKI FEDI</h1>
-<h3 align="center">Last year Embedded Systems Engineering student</h3>
+<h3 align="center">R&D Engineer at ACTIA ES</h3>
 
 - 🌱 I’m currently learning **ROS & STM32**
 
